@@ -2,6 +2,7 @@
 /*
  * Plugin Name: WP TinyMCE Tables
  * Description: Add Table controls to the WordPress TinyMCE editor
+ * Version: 1.0
  * Author: Adam Pope
  * Author URI: http://www.stormconsultancy.co.uk
  * License: MIT
